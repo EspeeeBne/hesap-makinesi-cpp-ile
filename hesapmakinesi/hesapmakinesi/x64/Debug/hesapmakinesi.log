@@ -1,0 +1,4 @@
+﻿  hesapmakinesi.cpp
+C:\Users\furka\source\repos\hesapmakinesi\hesapmakinesi\hesapmakinesi.cpp(162,32): warning C4566: '\u221A' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\furka\source\repos\hesapmakinesi\hesapmakinesi\hesapmakinesi.cpp(204,73): warning C4244: 'bağımsız değişken': 'unsigned __int64' - 'int' dönüşümü; veri kaybı olabilir
+  hesapmakinesi.vcxproj -> C:\Users\furka\source\repos\hesapmakinesi\x64\Debug\hesapmakinesi.exe
